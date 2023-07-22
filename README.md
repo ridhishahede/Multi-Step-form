@@ -15,7 +15,7 @@ This is a multi-step form software for gaming sites on laptop developed using ht
 Clone the project
 
 ```bash
-  git clone https://github.com/ridhishahede/age-calculator.git
+  git clone https://github.com/ridhishahede/Multi-Step-form.git
 ```
 
 Go to the project directory
